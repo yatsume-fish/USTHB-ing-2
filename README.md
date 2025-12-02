@@ -1,2 +1,2 @@
 # USTHB-ing-2
-Repository for sharing lectures and homeworks
+Repository for sharing lectures and assignments
